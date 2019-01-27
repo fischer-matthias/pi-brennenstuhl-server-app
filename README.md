@@ -1,8 +1,8 @@
-# pi server application
+# pi brennenstuhl server application
 
 ## Clone project
 ```
-git clone --recursive git@github.com:fischer-matthias/stroboalarm.git
+git clone --recursive git@github.com:fischer-matthias/pi-brennenstuhl-server-app.git
 ```
 
 ## Requirements
